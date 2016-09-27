@@ -1,6 +1,6 @@
 {
   "appname": "0927",
-  "scope": "FullAccess BuyerReader AdminReader",
+  "scope": "FullAccess, BuyerReader, AdminReader",
   "clientid": "679ADBF0-7D15-4095-9D14-980AFAD8172E",
   "buyerid": "Buyer01",
   "environment": "prod",
